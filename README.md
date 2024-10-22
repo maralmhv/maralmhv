@@ -7,12 +7,10 @@ Structural Engineer
 I recently completed my Master's degree in Structural Engineering at the University of Tehran, where my research focused on damage detection using physics-guided convolutional neural networks. I have developed a deep interest in structural analysis and design, and structural health monitoring (SHM) applied advanced data analysis and deep learning algorithms.
 
 * 🌍  I'm based in Ramsar
-* ✉️  You can contact me at [eng.maral.mahdavi@gmai.com](mailto:eng.maral.mahdavi@gmai.com)
+* ✉️  You can contact me at [eng.maral.mahdavi@gmail.com](mailto:eng.maral.mahdavi@gmail.com)
 
 <a href="https://www.github.com/maralmhv" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/maralmhv?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/maral.mhv" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/maral.mhv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/maralmhv?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -35,5 +33,3 @@ src="https://img.shields.io/twitter/follow/maral.mhv?logo=twitter&style=for-the-
 <a href="http://www.github.com/maralmhv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maralmhv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/maralmhv"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maralmhv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/maralmhv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maralmhv&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
